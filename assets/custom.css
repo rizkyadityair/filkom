@@ -1,0 +1,139 @@
+.sidebar-menu>li>a {
+    padding: 10px 5px 10px 10px !important;
+    font-size: 12px;
+    display: block;
+}
+
+.sidebar-menu .treeview-menu>li>a {
+    padding: 10px 5px 10px 10px !important;
+    font-size: 12px;
+    display: block;
+    margin-left:10px;
+}
+
+.alert-warning{
+    color:#000 !important;
+}
+
+.btn-warning{
+    color:#000 !important;
+}
+
+.sidebar-menu .fa{
+    font-size: 16px !important;
+}
+.skin-black .sidebar-menu>li.active>a {
+    border-left-color: #04c !important;
+}
+.skin-black .sidebar-menu>li:hover>a, .skin-black .sidebar-menu>li.active>a, .skin-black .sidebar-menu>li.menu-open>a {
+    background: #002671 !important;
+}
+
+.box-header {
+    padding: 5px 10px;
+    border-bottom: dashed 1px #ddd;
+}
+.list-border{
+	list-style: none;
+	padding: 0px;
+}
+.list-border li{
+    padding: 5px 10px;
+}
+.table-dashboard{
+	
+}
+.table-dashboard td{
+	font-size: 10px;
+	border:none !important;
+}
+.table-dashboard h4{
+	font-size: 23px;
+    font-weight: bold;
+    margin: 0px;
+}
+.no_margin{
+	margin: 0px !important;
+}
+.no_padding{
+    padding: 0px !important;
+}
+.table-list{
+	width: 100%;font-size:12px;
+}
+.table-list td{
+	padding: 3px !important;
+}
+.datatables thead{
+    background: #132d4a;
+    color: white;
+}
+.datatables{
+    font-size: 12px;
+}
+.thumbvehicle img{
+    margin-bottom: 10px;
+}
+.left_v{
+    padding-right: 5px;
+}
+.right_v{
+    padding-left: 5px;
+}
+.photoedit{
+    width: 90px; float: left;
+    margin-right: 5px;
+}
+.photoedit i{
+    font-weight: bold;
+    position: absolute;
+    color: white;
+    background: red;
+    padding: 5px;
+    border-radius: 10px;
+    margin-top: -25px;
+    margin-left: 5px;
+    font-size: 10px;
+
+}
+.table-hover tbody tr:hover td, .table-hover tbody tr:hover th {
+  background-color: #b1c0dcb8;
+}
+.tab_vehicle li{
+    font-weight: bold;
+}
+.overview .box{
+    background: #f3f3f3;
+}
+.hr_dashed{
+    margin:5px 0px;
+    border-top: dashed  1px #aaa !important;
+}
+.btn-accordion{
+    text-align: left !important;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+thead th{
+    vertical-align: middle !important;
+    text-align: center !important;
+}
+.table-sales td{
+    white-space: nowrap;
+}
+.blue{
+    background: #9d9dff;
+}
+.filter{
+    background: #d9e5ff;
+    padding: 5px;
+    margin-bottom: 10px;
+    border: solid 1px#ccc;
+}
+.btn-atas{
+    margin-right: 5px;
+}
+.DTFC_LeftBodyWrapper{
+   top: -14px !important;
+   background: #ddd !important; 
+}
